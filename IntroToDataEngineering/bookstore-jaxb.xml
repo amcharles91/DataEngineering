@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book>
+            <title>The Game</title>
+            <author>Neil Strauss</author>
+            <publisher>Harpercollins</publisher>
+            <isbn>978-0060554736</isbn>
+        </book>
+        <book>
+            <title>Feuchtgebiete</title>
+            <author>Charlotte Roche</author>
+            <publisher>Dumont Buchverlag</publisher>
+            <isbn>978-3832180577</isbn>
+        </book>
+    </bookList>
+    <name>Fraport Bookstore</name>
+    <location>Frankfurt Airport</location>
+</bookstore>
